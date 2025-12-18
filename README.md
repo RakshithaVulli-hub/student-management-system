@@ -1,4 +1,2 @@
 # first-p
-this is my first git repository
-<br>
-va re va
+this is my first git mini project
